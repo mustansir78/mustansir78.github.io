@@ -1,4 +1,4 @@
-# Project Portfolios
+# Project Portfolio
 
 This repo contains all my website development and Data Science project work I have done so far during ny career.
 
